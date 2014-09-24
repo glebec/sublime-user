@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Better JavaScript",
+		"ColorPicker",
+		"DashDoc",
+		"Emmet",
+		"Emmet Css Snippets",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JsFormat",
+		"MarkdownEditing",
+		"Package Control",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Syntax Highlighting for Sass"
+	]
+}
