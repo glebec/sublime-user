@@ -1,0 +1,11 @@
+<snippet>
+		<content><![CDATA[var ${1:instance};
+beforeEach(function(){
+	${1:instance} = ${2:new ${3:Constructor}()};
+});
+
+${0:}]]></content>
+		<tabTrigger>beforeEach</tabTrigger>
+		<scope>source.js</scope>
+		<description>beforeEach (jasmine)</description>
+</snippet>
