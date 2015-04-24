@@ -1,12 +1,17 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
 		"Better JavaScript",
 		"ColorPicker",
 		"DashDoc",
+		"EditorConfig",
 		"Emmet",
 		"Emmet Css Snippets",
+		"Floobits",
 		"GitGutter",
 		"Highlight",
 		"HTML-CSS-JS Prettify",
@@ -19,6 +24,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
-		"Syntax Highlighting for Sass"
+		"Syntax Highlighting for Sass",
+		"Theme - Spacegray"
 	]
 }
